@@ -1,0 +1,5 @@
+# My first .gitignore
+
+Log
+*.exe
+
