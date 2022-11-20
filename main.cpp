@@ -1,4 +1,4 @@
 void feature ();
-int MainFunction() {
+int MAINFUNCTION() {
 	return 0;
 }
